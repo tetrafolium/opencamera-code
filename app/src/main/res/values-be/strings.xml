@@ -42,7 +42,6 @@
     <string name="started_recording_video">Запіс відэа</string>
     <string name="sorry">Выбачайце</string>
     <string name="failed_to_save_photo">Не атрымалася захаваць фота</string>
-    <string name="failed_to_save_photo_raw">Failed to save RAW photo</string> <!-- TODO: translate!-->
     <string name="failed_to_auto_stabilise">Аўтастабілізацыя не адбылася</string>
     <string name="failed_to_start_camera_preview">Не атрымалася запусціць папярэдні прагляд  камеры</string>
     <string name="taking_photo">Зрабіць фотаздымак</string>

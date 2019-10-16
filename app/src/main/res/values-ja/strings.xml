@@ -42,7 +42,6 @@
     <string name="started_recording_video">録画を開始しました</string>
     <string name="sorry">すみません</string>
     <string name="failed_to_save_photo">保存に失敗しました</string>
-    <string name="failed_to_save_photo_raw">RAW保存に失敗しました</string> <!-- TODO: checn translation -->
     <string name="failed_to_auto_stabilise">回転に失敗しました</string>
     <string name="failed_to_start_camera_preview">プレビューに失敗しました</string>
     <string name="taking_photo">写真を撮ります</string>

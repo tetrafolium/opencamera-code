@@ -42,7 +42,6 @@
     <string name="started_recording_video">Vidyo kaydetme başladı</string>
     <string name="sorry">Üzgünüz</string>
     <string name="failed_to_save_photo">Fotoğraf kaydederken hata oluştu</string>
-    <string name="failed_to_save_photo_raw">Failed to save RAW photo</string> <!-- TODO: translate!-->
     <string name="failed_to_auto_stabilise">Otomatik stabilize hatası oluştu</string>
     <string name="failed_to_start_camera_preview">Kamera önizleme başlatma hatası</string>
     <string name="taking_photo">Fotoğraf çekiliyor</string>
