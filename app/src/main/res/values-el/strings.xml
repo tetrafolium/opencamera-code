@@ -35,6 +35,7 @@
     <string name="exposure_locked">Κλείδωμα αντιστάθμισης</string>
     <string name="exposure_unlocked">Ξεκλείδωμα αντιστάθμισης</string>
     <string name="cancelled_timer">Ακύρωση χρονομέτρου</string>
+    <string name="cancelled_repeat_mode">Cancelled repeat mode</string> <!-- TODO: translate!-->
     <string name="started_timer">Εκκίνηση χρονομέτρου</string>
     <string name="failed_to_save_video">Η αποθήκευση του βίντεο απέτυχε</string>
     <string name="failed_to_record_video">Η εγγραφή του βίντεο απέτυχε</string>

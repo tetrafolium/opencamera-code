@@ -13,6 +13,7 @@
     <string name="choose_save_location">Scegli la posizione di salvataggio:</string>
     <string name="clear_folder_history">Pulisci la cronologia delle cartelle</string>
     <string name="clear_folder_history_question">Pulire la cronologia delle cartelle?</string>
+    <string name="choose_another_folder">Choose another folder</string> <!-- TODO: translate! -->
     <string name="changed_save_location">Posizione cambiata in:</string>
     <string name="stopped_recording_video">Registrazione video interrotta</string>
     <string name="repeats_to_go">ripetizioni per andare</string> <!--  intentionally starts lower case --> <!-- @TODO PER FAVORE VERIFICARE QUESTA TRADUZIONE! -->

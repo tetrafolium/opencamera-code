@@ -42,6 +42,7 @@
     <string name="started_recording_video">Spuštěno natáčení videa</string>
     <string name="sorry">Promiňte</string>
     <string name="failed_to_save_photo">Selhalo ukládání fotografie</string>
+    <string name="failed_to_save_photo_raw">Failed to save RAW photo</string> <!-- TODO: translate!-->
     <string name="failed_to_auto_stabilise">Selhala automatická stabilizace</string>
     <string name="failed_to_start_camera_preview">Selhala inicializace náhledu fotoaparátu</string>
     <string name="taking_photo">Fotografuji</string>
